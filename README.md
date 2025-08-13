@@ -1,21 +1,12 @@
-# Let's draft a professional README.md for GitHub for the Credit Score Modelling project.
 
-readme_content = """# Credit Score Modelling
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn%20%7C%20XGBoost-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
----
-
-## 📌 Introduction
+## Credit Score Model
 
 This project focuses on **predicting the probability of a person experiencing serious delinquency in the next two years** based on historical credit data.  
 It uses **machine learning models** to process financial and demographic information and outputs a risk score.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses two datasets provided:
 
@@ -64,11 +55,11 @@ The project uses two datasets provided:
 4. **Evaluation Metrics**
    - AUC-ROC Score
    - Log Loss
-   - Accuracy (less important for imbalanced dataset)
+   - Accuracy (less important for an imbalanced dataset)
 
 ---
 
-## 📊 Results
+##  Results
 
 - **Best Model:** XGBoost Classifier  
 - **Best AUC Score:** *(add final score here)*  
@@ -76,9 +67,5 @@ The project uses two datasets provided:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CreditScoreModelling.git
-   cd CreditScoreModelling
+## Resources 
+- Dataset: https://www.kaggle.com/competitions/GiveMeSomeCredit/data

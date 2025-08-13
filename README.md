@@ -1,5 +1,5 @@
 
-## Credit Score Model
+# Credit Score Model
 
 This project focuses on **predicting the probability of a person experiencing serious delinquency in the next two years** based on historical credit data.  
 It uses **machine learning models** to process financial and demographic information and outputs a risk score.
